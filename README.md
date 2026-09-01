@@ -42,12 +42,6 @@ Files not matching either format are rejected with a clear error message.
 5. Explore Map, Sensor Charts, and Data Table tabs
 6. Click Export Excel to download the analysed dataset
 
-## Deploy to GitHub Pages
-
-1. Fork or clone this repository
-2. Go to Settings -> Pages -> Source: main branch / root
-3. App will be live at: https://YOUR_USERNAME.github.io/REPO_NAME/
-
 ## Local Development
 
 No build tools needed. Just open index.html in a browser.
