@@ -1,0 +1,22 @@
+# ── OS / System files ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor / IDE ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ──────────────────────────────────────────────────────────
+*.log
+
+# ── Excel / Data files (private — do NOT upload to GitHub) ────────
+*.xlsx
+*.xls
+*.csv
+
+# ── Temporary / scratch files ─────────────────────────────────────
+*.tmp
+*.bak
